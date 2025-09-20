@@ -11,7 +11,6 @@ Resources:
           FromPort: 22
           ToPort: 22
           CidrIp: 0.0.0.0/0   # Replace with your IP range in production for security
- 
         - IpProtocol: tcp
           FromPort: 80
           ToPort: 80
