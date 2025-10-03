@@ -1,0 +1,11 @@
+whoami  #Current user
+
+id  #User info
+
+adduser <username>  #Add new user
+
+passwd <username>  #Change password
+
+chmod 755 <file>  #Change permissions
+
+chown user:group <file>  #Change ownership

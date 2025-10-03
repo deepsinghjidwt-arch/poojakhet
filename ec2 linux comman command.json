@@ -1,0 +1,21 @@
+sudo su #start your program
+
+pwd  #showing your path
+
+cd .. #one step back
+
+cd  #call dairactary
+
+ls  #your list distonary
+
+nkdir  #create a folder
+
+touch #create a file
+
+sudo vi  #create folder and files
+
+cat  #create file in folder
+
+cat #read your file
+ 
+fdisk -l #check your hard-disk

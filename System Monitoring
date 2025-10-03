@@ -1,0 +1,9 @@
+top or htop   #Show running processes
+
+df -h   #Check disk usage
+
+du -sh *   #Check size of files/folders
+
+free -m   #Show memory usage
+
+uptime  #Show system load
