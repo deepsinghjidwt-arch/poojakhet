@@ -1,9 +1,0 @@
-aws configure   #Configure AWS CLI
-
-aws s3 ls   #List S3 buckets
-
-aws ec2 describe-instances   #List EC2 instances
-
-aws s3 cp file.txt s3://mybucket/   #Upload file to S3
-
-aws s3 sync ./ s3://mybucket/   #Sync folder to S3
